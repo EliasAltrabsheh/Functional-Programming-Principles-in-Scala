@@ -1,0 +1,5 @@
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Home/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/Home/Desktop/funsets/funsets/}root/products {file:/C:/Users/Home/Desktop/funsets/funsets/}root/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Home/AppData/Local/Temp/sbt-structure.xml; session clear-all
+all {file:/C:/Users/Home/Desktop/funsets/funsets/}root/products {file:/C:/Users/Home/Desktop/funsets/funsets/}root/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers resolveSbtClassifiers" ;*/*:dumpStructureTo C:/Users/Home/AppData/Local/Temp/sbt-structure.xml; session clear-all
