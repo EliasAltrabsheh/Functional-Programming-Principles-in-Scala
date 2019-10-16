@@ -1,4 +1,4 @@
-# Principles Scala Assignments
+# Functional Programming Principles in Scala
 
 The priciple assignment course is the first course of the specilization  "Functional Programming in scala specialization". 
 
@@ -22,4 +22,8 @@ Functional Programming Principles in Scala syllabus is broken down by :
 
 5) Week 5 : This week we dive into Lists, the most commonly-used data structure in Scala.
 
-6) After a deep-dive into Lists, this week we'll explore other data structures; vectors, maps, ranges, arrays, and more. We'll dive into Scala's powerful and flexible for-comprehensions for querying data.
+6) Week 6 : After a deep-dive into Lists, this week we'll explore other data structures; vectors, maps, ranges, arrays, and more. We'll dive into Scala's powerful and flexible for-comprehensions for querying data.
+
+
+Assignment deatails are broken down in each week's folder.
+
