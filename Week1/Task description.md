@@ -35,13 +35,21 @@ The last example shows that it’s not enough to verify that a string contains t
 Do this exercise by implementing the balance function in Main.scala. Its signature is as follows:
 
 
-'''
+```python
 
 def balance(chars: List[Char]): Boolean
 
 
-'''
+```
 
+There are three methods on List[Char] that are useful for this exercise:
+
+* chars.isEmpty: Boolean returns whether a list is empty
+* chars.head: Char returns the first element of the list
+* chars.tail: List[Char] returns the list without the first element
+**Hint:** you can define an inner function if you need to pass extra parameters to your function.
+
+**Testing:** You can use the toList method to convert from a String to aList[Char]: e.g. "(just an) example".toList.
 
 
 
